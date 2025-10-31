@@ -1,0 +1,9 @@
+[2025-10-31 09:40:29] No books file found. Starting with empty library.
+[2025-10-31 09:40:29] No transactions file found. Starting fresh.
+[2025-10-31 09:41:22] Books data saved. Total items: 1
+[2025-10-31 09:41:22] Transactions saved. Total: 0
+[2025-10-31 09:41:22] Added Book: g
+[2025-10-31 09:41:31] Report generated: library_report_20251031_094131.txt
+[2025-10-31 09:41:35] Report generated: library_report_20251031_094135.txt
+[2025-10-31 09:41:37] Report generated: library_report_20251031_094137.txt
+[2025-10-31 09:41:41] Report generated: library_report_20251031_094141.txt
